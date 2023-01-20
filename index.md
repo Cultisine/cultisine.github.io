@@ -19,7 +19,7 @@
 
 
     <h2>Concept</h2>
-    <details><summary>Vision</summary>2</details>
+    <details><summary>Vision</summary>MD</details>
     <h2>Plan</h2>
     <h2>Content</h2>
     <h2>Development</h2>
